@@ -2,6 +2,8 @@
 
 #### Setup genesis
 
+#### Make sure your node version is >12.0.0
+
 Setup genesis whenever contracts get changed
 ### 1. Install dependencies and submodules
 ```bash
