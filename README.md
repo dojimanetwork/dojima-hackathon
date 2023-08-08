@@ -47,3 +47,4 @@ $ truffle migrate --network dojimachain
 4. Logo (optional)
 5. Steps to follow for testing the project
 ```
+5. Submit a `Pull Request` to this repository with your changes.

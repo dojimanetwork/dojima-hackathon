@@ -13,3 +13,4 @@
 4. Logo-image (optional)
 5. Steps to follow for testing the project
 ```
+5. Submit a `Pull Request` to this repository with your changes.
