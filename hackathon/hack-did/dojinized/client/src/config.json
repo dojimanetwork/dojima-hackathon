@@ -1,0 +1,15 @@
+{
+    "networks": {
+        "1001": {
+            "MyToken": {
+                "address": "0xe7F7067C9ECAB27c5F7f13E02b13eD50931f6D0f"
+            },
+            "MyTokenSale": {
+                "address": "0x4cAb5791640C439D7Aece517d70BFEfcA4b0Fb6b"
+            },
+            "KycContract": {
+                "address": "0x33ab6332C2FD6F54113F073A4A872B838A6d70AF"
+            }
+        }
+    }
+}
