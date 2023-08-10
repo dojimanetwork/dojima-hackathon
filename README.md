@@ -46,5 +46,6 @@ $ truffle migrate --network dojimachain
 3. Tag-line (if-any)
 4. Logo (optional)
 5. Steps to follow for testing the project
+6. Deployed contract address on top of DOJIMA blockchain
 ```
 5. Submit a `Pull Request` to this repository with your changes.
